@@ -31,7 +31,7 @@ const Card_ = () => {
   const [recipes, setdata] = useState([]);
 
 
- const api = "onrqKGX0K2o7DUdMhQ9gQFiyNrnaOCmuZlvooEZqchpDfcde2DlCLKcR"; 
+ const api = ""; 
  
  useEffect(() => {
   const getdata = async()=>{
