@@ -11,7 +11,7 @@ const Detail = () => {
  const [query, setquery] = useState("nature");
 
 
- const api = "onrqKGX0K2o7DUdMhQ9gQFiyNrnaOCmuZlvooEZqchpDfcde2DlCLKcR";
+ const api = "";
 
  useEffect(() => {
    const getdata = async () => {
